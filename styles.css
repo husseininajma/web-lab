@@ -4,3 +4,27 @@ body {
   padding: 2rem;
   background: #f6f8fa;
 }
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0%;
+    overflow: hidden;
+    background-color:#0000ff4D;
+}
+nav li{
+    float: left;
+}
+ul li a{
+    display: block;
+    color:rgb(51, 26, 77) ;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul li a:hover{
+    background-color:rgb(173, 144, 219);
+}
+h1{
+    color: rgb(152, 85, 223);
+}
