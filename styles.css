@@ -4,6 +4,9 @@ body {
   padding: 2rem;
   background: #eadbfe;
 }
+nav h1{
+    color:  #eee6ff;
+}
 /*
 header {
   background-color: #666;
