@@ -7,15 +7,7 @@ body {
 nav h1{
     color:  #eee6ff;
 }
-/*
-header {
-  background-color: #666;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: rgb(129, 100, 183);
-}
-*/
+
 .navbar{
     display: flex;
     align-items: center;
@@ -33,8 +25,7 @@ ul {
 ul li {
   float: left;
 }
-
-ul li a {
+.nav-linl{
   display: block;
   color:  #eee6ff;
   text-align: center;
@@ -73,5 +64,4 @@ ul li a:hover {
 .navbar.light-mode li a:hover {
   background-color: #d8c5f2;
 }
-  background: #d9e3ed;
-}
+

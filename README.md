@@ -22,5 +22,5 @@ Clicking the button changes the appearance of the navigation elements.
 
 1. Clone the repository:
 
-in bash
+open bash
 git clone git@github.com:husseininajma/web-lab.git
